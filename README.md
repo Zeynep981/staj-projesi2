@@ -331,9 +331,9 @@ Var olan öğelerin miktar ve fiyatlarını görmek için yapılır.
 Silinmek istenen öğenin adı girilerek yapılır. var olmayan bir öğe silinemez.
 ![öğe silme](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20134322.png)
 #### Öğe Arama
-Var olan bir öğe adı girilerek aranır.
-![öğe arama](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20134322.png)
-Silinen ya da var olmayan bir öğe bulunamaz.
+Var olan bir öğe adı girilerek aranır.<br/>
+![öğe arama](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20134322.png)<br/>
+Silinen ya da var olmayan bir öğe bulunamaz.<br/>
 ![öğe bulunamadı](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20134409.png)
 #### Toplam Değer
 Toplam değeri detaylı bir şekilde görmekiçin yapılır.

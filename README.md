@@ -315,12 +315,12 @@ Bu adımları izleyerek Google Colab üzerinde projenizi çalıştırabilir ve a
 ### Kullanım Görselleri
 #### Öğe Ekleme
 Ürün sayısı ve ürün miktarı negatifken işlem yapılmaz. ürn adı girilmemişken işlem gerçekleştirilmez. <br/>
-**ürün adı girilmemişken**
-![ürün adı girilmemişken](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20135003.png)
-**ürün miktarı negatifken**
-![ürün miktarı negatifken](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20134808.png)
-**ürün başarıyla eklenince**
-![ürün başarıyla eklenince](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20133945.png)
+**ürün adı girilmemişken**<br/>
+![ürün adı girilmemişken](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20135003.png)<br/>
+**ürün miktarı negatifken**<br/>
+![ürün miktarı negatifken](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20134808.png)<br/>
+**ürün başarıyla eklenince**<br/>
+![ürün başarıyla eklenince](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20133945.png)<br/>
 #### Öğe Güncelleme
 Var olan ürünün miktarı veya fiyatını değiştirmek için yapılır.<br/>
 ![öğe güncelle](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20134043.png)

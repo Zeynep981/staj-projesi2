@@ -336,7 +336,12 @@ Var olan bir öğe adı girilerek aranır.
 Silinen ya da var olmayan bir öğe bulunamaz.
 ![öğe bulunamadı](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20134409.png)
 #### Toplam Değer
-Toplam değeri detaylı bir şekilde görmekiçin yapılır
+Toplam değeri detaylı bir şekilde görmekiçin yapılır.
+![toplam değer](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20134713.png)
+#### İşlem Bitirme
+işlemleri sona erdirmek ve kod ekranını kapatmak için yapılır.
+![işlem bitirme](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20134713.png)
+
 ## Sonuç
 
 Bu proje, kullanıcıların envanterlerini yönetmelerine yardımcı olan basit bir envanter yönetim sistemi sunar. Kullanıcı dostu arayüzü sayesinde öğe ekleme, güncelleme, silme ve listeleme gibi işlemler kolayca gerçekleştirilebilir. Tkinter ile oluşturulan grafik arayüz, kullanıcıların bu işlemleri hızlı ve verimli bir şekilde yapmalarına olanak tanır.

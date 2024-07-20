@@ -313,6 +313,13 @@ Google Colab ile kodları çalıştırmak için aşağıdaki adımları izleyebi
 Bu adımları izleyerek Google Colab üzerinde projenizi çalıştırabilir ve analizlerinizi gerçekleştirebilirsiniz.
 
 ### Kullanım Görselleri
+#### Öğe Ekleme
+Ürün sayısı ve ürün miktarı negatifken işlem yapılmaz. ürn adı girilmemişken işlem gerçekleştirilmez. <br/>
+**ürün adı girilmemişken**
+
+**ürün fiyatı negatifken**
+
+**ürün başarıyla eklenince**
 
 ## Sonuç
 

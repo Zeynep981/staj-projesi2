@@ -316,11 +316,27 @@ Bu adımları izleyerek Google Colab üzerinde projenizi çalıştırabilir ve a
 #### Öğe Ekleme
 Ürün sayısı ve ürün miktarı negatifken işlem yapılmaz. ürn adı girilmemişken işlem gerçekleştirilmez. <br/>
 **ürün adı girilmemişken**
-![ürün adı girilmemişken]()
-**ürün fiyatı negatifken**
-![ürün fiyatı negatifken]()
+![ürün adı girilmemişken](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20135003.png)
+**ürün miktarı negatifken**
+![ürün miktarı negatifken](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20134808.png)
 **ürün başarıyla eklenince**
-![*ürün başarıyla eklenince]()
+![ürün başarıyla eklenince](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20133945.png)
+#### Öğe Güncelleme
+Var olan ürünün miktarı veya fiyatını değiştirmek için yapılır.<br/>
+![öğe güncelle](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20134043.png)
+#### Öğe Listeleme
+Var olan öğelerin miktar ve fiyatlarını görmek için yapılır.
+![öğe listeleme](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20134043.png)
+#### Öğe Silme
+Silinmek istenen öğenin adı girilerek yapılır. var olmayan bir öğe silinemez.
+![öğe silme](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20134322.png)
+#### Öğe Arama
+Var olan bir öğe adı girilerek aranır.
+![öğe arama](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20134322.png)
+Silinen ya da var olmayan bir öğe bulunamaz.
+![öğe bulunamadı](https://github.com/Zeynep981/staj-projesi2/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-17%20134409.png)
+#### Toplam Değer
+Toplam değeri detaylı bir şekilde görmekiçin yapılır
 ## Sonuç
 
 Bu proje, kullanıcıların envanterlerini yönetmelerine yardımcı olan basit bir envanter yönetim sistemi sunar. Kullanıcı dostu arayüzü sayesinde öğe ekleme, güncelleme, silme ve listeleme gibi işlemler kolayca gerçekleştirilebilir. Tkinter ile oluşturulan grafik arayüz, kullanıcıların bu işlemleri hızlı ve verimli bir şekilde yapmalarına olanak tanır.

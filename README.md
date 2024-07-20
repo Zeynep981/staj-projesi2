@@ -5,7 +5,7 @@
 2. [Amaç](#amaç)
 3. [Özellikler](#özellikler)
 4. [Gereksinimler](#gereksinimler)
-5. [Proje Açıklaması-Sınıflar ve Metodlar](#sınıflar-ve-metodlar)
+5. [Proje Özeti-Sınıflar ve Metodlar](#sınıflar-ve-metodlar)
    - [Item Sınıfı](#item-sınıfı)
    - [Envanter Sınıfı](#envanter-sınıfı)
    - [EnvanterGUI Sınıfı](#envantergui-sınıfı)
@@ -37,7 +37,7 @@ Bu projeyi çalıştırmak için aşağıdaki gereksinimlere ihtiyacınız var:
 - Python 3.x
 - Tkinter (Python ile birlikte gelir)
 
-## Sınıflar ve Metodlar
+## Proje Özeti - Sınıflar ve Metodlar
 
 ### Item Sınıfı
 

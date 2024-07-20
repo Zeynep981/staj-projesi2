@@ -316,11 +316,11 @@ Bu adımları izleyerek Google Colab üzerinde projenizi çalıştırabilir ve a
 #### Öğe Ekleme
 Ürün sayısı ve ürün miktarı negatifken işlem yapılmaz. ürn adı girilmemişken işlem gerçekleştirilmez. <br/>
 **ürün adı girilmemişken**
-
+![ürün adı girilmemişken]()
 **ürün fiyatı negatifken**
-
+![ürün fiyatı negatifken]()
 **ürün başarıyla eklenince**
-
+![*ürün başarıyla eklenince]()
 ## Sonuç
 
 Bu proje, kullanıcıların envanterlerini yönetmelerine yardımcı olan basit bir envanter yönetim sistemi sunar. Kullanıcı dostu arayüzü sayesinde öğe ekleme, güncelleme, silme ve listeleme gibi işlemler kolayca gerçekleştirilebilir. Tkinter ile oluşturulan grafik arayüz, kullanıcıların bu işlemleri hızlı ve verimli bir şekilde yapmalarına olanak tanır.
